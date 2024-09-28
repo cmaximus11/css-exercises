@@ -1,3 +1,7 @@
+#third-element, #fourth-element {
+    font-size: 24px;
+}
+
 .odd-number {
     background-color: lightpink;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
@@ -8,13 +12,8 @@
     font-size: 36px;
 }
 
-#third-element {
-    font-size: 24px;
-}
-
 #fourth-element {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
 
